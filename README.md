@@ -1,9 +1,10 @@
 ##
 
- <div>
+ <div align="center">
   <a href="https://github.com/maysabilac">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kleberzito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleberzito&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=kleberzito&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&background=151515&currStreakNum=FFFB00&sideNums=FFFFFF&ring=00D1DD&fire=D8FF00&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=00D1DD"/>
 </div>
  
 
