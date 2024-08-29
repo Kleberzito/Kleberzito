@@ -1,7 +1,7 @@
 # Bem-vindo ao meu perfil do Github
 
 ## Sobre Mim
-Sou um desenvolvedor backend me especializando em C# e .NET, possuo experiência em projetos frontend utilizando HTML, CSS e JavaScript. Aqui você encontrará alguns dos meus projetos mais recentes.
+Me chamado Kleber e sou um desenvolvedor backend me especializando em C# e .NET, possuo experiência em projetos frontend utilizando HTML, CSS e JavaScript. Aqui você encontrará alguns dos meus projetos mais recentes.
 
 ## Projetos Backend
 
@@ -22,6 +22,14 @@ Sou um desenvolvedor backend me especializando em C# e .NET, possuo experiência
 - **Tecnologias:** HTML, CSS.
 - **Repositório:** Link para o repositório
 
+## Linguagens-Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,js)](https://skillicons.dev)
+
 ## Contato
 - **Email:** kleber.gsilva@outlook.com
 - **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/kleber-gomes-73892b28/)
+  
+## Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kleberzito&hide_progress=true)
