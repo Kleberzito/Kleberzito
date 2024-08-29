@@ -32,4 +32,4 @@ Me chamado Kleber e sou um desenvolvedor backend me especializando em C# e .NET,
   
 ## Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kleberzito&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kleberzito&layout=compact)
