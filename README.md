@@ -5,7 +5,7 @@ Me chamado Kleber e sou um desenvolvedor backend me especializando em C# e .NET,
 
 ## Projetos Backend
 
-### 1. API de Gerenciamento de Tarefas
+### 1. API de Cadastro de Alunos
 - **Descrição:** Uma API RESTful para consulta e cadastro de alunos.
 - **Tecnologias:** C#, .NET, Entity Framework Core, SQL Server
 - **Repositório:** [Link para o repositório](https://github.com/Kleberzito/ApiCrud)
