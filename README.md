@@ -1,7 +1,7 @@
 # Bem-vindo ao meu perfil do Github
 
 ## Sobre Mim
-Me chamado Kleber e sou um desenvolvedor backend me especializando em C# e .NET, possuo experiência em projetos frontend utilizando HTML, CSS e JavaScript. Aqui você encontrará alguns dos meus projetos mais recentes.
+Me chamo Kleber e sou um desenvolvedor backend me especializando em C# e .NET, possuo experiência em projetos frontend utilizando HTML, CSS e JavaScript. Aqui você encontrará alguns dos meus projetos mais recentes.
 
 ## Projetos Backend
 
@@ -9,6 +9,11 @@ Me chamado Kleber e sou um desenvolvedor backend me especializando em C# e .NET,
 - **Descrição:** Uma API RESTful para consulta e cadastro de alunos.
 - **Tecnologias:** C#, .NET, Entity Framework Core, SQL Server
 - **Repositório:** [Link para o repositório](https://github.com/Kleberzito/ApiCrud)
+
+### 2. Modelo de Herança em C#
+- **Descrição:** Um projeto backend desenvolvido em C# que demonstra a implementação de herança em um modelo de classes. Este projeto visa explicar os conceitos de herança, utilizando exemplos práticos e detalhados.
+- **Tecnologias:** C#, .NET
+- **Repositório:** [Link para o repositório](https://github.com/Kleberzito/EstudosHerancaNinja).
 
 ## Projetos Frontend
 
