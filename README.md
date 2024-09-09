@@ -20,7 +20,7 @@ Me chamado Kleber e sou um desenvolvedor backend me especializando em C# e .NET,
 ### 2. Portal de noticia
 - **Descrição:** Uma pagina com noticia categozidadas por temas
 - **Tecnologias:** HTML, CSS.
-- **Repositório:** Link para o repositório
+- **Repositório:** [Link para o repositório](https://github.com/Kleberzito/curso_ebac_frontend_css).
 
 ## Linguagens-Frameworks
 
