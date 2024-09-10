@@ -27,6 +27,11 @@ Me chamo Kleber e sou um desenvolvedor backend me especializando em C# e .NET, p
 - **Tecnologias:** HTML, CSS.
 - **Repositório:** [Link para o repositório](https://github.com/Kleberzito/curso_ebac_frontend_css).
 
+### 3. Landing Page - Loja de Games
+- **Descrição:** Landing page para uma loja de games com menu de navegação, seção inicial sobre a loja e serviços, e seção de contato com formulário e ícones de redes sociais.
+- **Tecnologias:** HTML, CSS.
+- **Repositório:** [Link para o repositório](https://github.com/Kleberzito/GameShop)
+
 ## Linguagens-Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,js)](https://skillicons.dev)
