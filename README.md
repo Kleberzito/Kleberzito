@@ -15,6 +15,11 @@ Me chamo Kleber e sou um desenvolvedor backend me especializando em C# e .NET, p
 - **Tecnologias:** C#, .NET
 - **Repositório:** [Link para o repositório](https://github.com/Kleberzito/EstudosHerancaNinja).
 
+### 3. Classe generica em C#
+Descrição: Um projeto  desenvolvido em C# que demonstra a implementação de classes Genericas. Este projeto visa explicar os conceitos de `Objetos Genericos`, utilizando exemplos práticos e detalhados.
+Tecnologias: C#, .NET
+Repositório: [Link para o repositório](https://github.com/Kleberzito/EstudosGenericoNinja)
+
 ## Projetos Frontend
 
 ### 1. Formulario de cadastro
