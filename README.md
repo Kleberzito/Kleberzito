@@ -37,6 +37,11 @@ Me chamo Kleber e sou um desenvolvedor backend me especializando em C# e .NET, p
 - **Tecnologias:** HTML, CSS.
 - **Repositório:** [Link para o repositório](https://github.com/Kleberzito/GameShop)
 
+### 4. Calculadora de Média
+- **Descrição:** Este é um projeto simples de uma calculadora de média final, desenvolvido com HTML, CSS e JavaScript.
+- **Tecnologias:** HTML, CSS, JavaScript.
+- **Repositório:** [Link para o repositório](https://github.com/Kleberzito/curso_ebac_frontend_Js_projeto)
+
 ## Linguagens-Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,js)](https://skillicons.dev)
