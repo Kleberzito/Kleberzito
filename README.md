@@ -48,8 +48,5 @@ Me chamo Kleber e sou um desenvolvedor backend me especializando em C# e .NET, p
 
 ## Contato
 - **Email:** kleber.gsilva@outlook.com
-- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/kleber-gomes-73892b28/)
-  
-## Linguagens Mais Usadas
+- **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/kleber-gomes-73892b28/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kleberzito&layout=compact)
